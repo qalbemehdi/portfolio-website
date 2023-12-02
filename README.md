@@ -37,10 +37,6 @@ Welcome to my portfolio website built with Next.js! This project showcases my sk
 
 You can check out the live demo of my portfolio at (https://qalbemehdi.vercel.app/).
 
-## Technologies Used
 
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org/)
-- [Styled Components](https://styled-components.com/)
   
 
